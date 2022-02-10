@@ -1,0 +1,7 @@
+{
+  "name": "echo",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^3.3.1"
+  }
+}
